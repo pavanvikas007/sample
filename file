@@ -1,3 +1,7 @@
 fdasfasdfas
 editied in feature1 branch
+<<<<<<< HEAD
 editied in feature2
+=======
+rebase
+>>>>>>> feature1
